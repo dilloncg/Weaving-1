@@ -2,6 +2,7 @@ body{
   background-image: url("weaving-background5.png");
   background-repeat: no-repeat;
   background-size: cover;
+  position: fixed;
 }
 
 .heart{
