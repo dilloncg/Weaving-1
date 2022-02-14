@@ -1,0 +1,38 @@
+body{
+  background-image: url("weaving-background5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.heart{
+  height: 70px;
+  margin-left: 80px;
+  margin-top: 90px;
+  position: fixed;
+}
+
+.heart:hover{
+  transform: scale(2);
+}
+
+.heart1{
+  height: 170px;
+  margin-left: 200px;
+  margin-top: 400px;
+  position: fixed;
+}
+
+.heart1:hover{
+  transform: scale(3);
+}
+
+.heart2{
+  height: 100px;
+  margin-left: 500px;
+  margin-top: 300px;
+  position: fixed;
+}
+
+.heart2:hover{
+  transform: scale(2);
+}
